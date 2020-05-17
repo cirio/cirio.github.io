@@ -1,3 +1,3 @@
-## Andrea Cirioni (:tomato:)
+## Andrea Cirioni :tomato:
 
 ### .NET Developer 
