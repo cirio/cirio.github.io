@@ -1,3 +1,3 @@
-## Andrea Cirioni 🍅
+## Andrea Cirioni
 
 ### .NET Developer  
